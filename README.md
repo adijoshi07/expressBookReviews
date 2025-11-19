@@ -20,8 +20,6 @@ final_project/
 
 🔧 Setup Instructions
 - Clone the repo https://github.com/adijoshi07/expressBookReviews
-git clone 
-cd book-review-app
 - Install dependencies
 npm install
 - Run the server
